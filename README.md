@@ -1,11 +1,14 @@
 <!-- Banner Image -->
-<div align="center">
-    <img src="https://i.ibb.co.com/27yDBW99/Gemini-Generated-Image-zb3a8ozb3a8ozb3a.png" alt="Banner Image" width="900"/>
+![GitHub Banner](https://i.ibb.co/WWW519Cm/github-cover-1.jpg)
 
-</div>
+
 
 # 👋 Hi, I’m **Bibi Moriom**
-### Frontend Developer
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%26+Next.js+Enthusiast;Building+Responsive+Web+Apps;Always+Learning+New+Technologies"
+    alt="Typing SVG" />
+</p>
 
 ---
 
@@ -15,6 +18,9 @@ I enjoy building responsive and interactive websites and continuously learning n
 Currently, I am focusing on improving my skills with **Next.js** and modern web design.  
 
 ---
+
+
+
 
 ## 🔭 Current Activities
 - I am exploring **Next.js**.
@@ -50,17 +56,18 @@ Currently, I am focusing on improving my skills with **Next.js** and modern web 
 </div>
 
 ---
-
 ## 🌐 Connect with Me
 <div>
   <a href="https://github.com/bibiotbibi" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
   <a href="https://www.linkedin.com/in/bibi-moriom" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+
+  <a href="tel:+8801885565622">
+    <img src="https://img.shields.io/badge/Phone-01885565622-green?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </div>
 
